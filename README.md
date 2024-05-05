@@ -90,6 +90,7 @@ tenformat geschaffen. Reiter (2023) erweiterte diese um einige aktuelle und
 teils recht komplexe Demosaicing-Algorithmen, zwischen denen frei gewählt
 werden kann. Diese Algorithmen sowie die Schritte zum Postprocessing stellten
 sich als teilweise sehr zeitintensiv heraus.
+</details>
 
 In dieser Arbeit wurden verschiedene Ansätze erkundet, die implementierten
 Berechnungen zu beschleunigen, wobei ein besonderer Fokus auf der Platt-
@@ -117,4 +118,4 @@ Im Verlauf der Arbeit wurde die Codebasis von Jeniffer2 weiter gepflegt. Au-
 ßerdem wurden mit der Pixellupe mit verschiedenen Vergleichsmodi und dem
 schnellen Konfigurationswechsler zwei neue Elemente hinzugefügt, die zum
 Erkunden und Vergleichen der Demosaicing-Algorithmen einladen.
-</details>
+
